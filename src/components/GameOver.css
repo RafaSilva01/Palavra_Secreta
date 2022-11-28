@@ -1,0 +1,8 @@
+.BOX{
+    margin:30px;
+    background-color: rgb(243, 243, 243);
+    opacity: 0.7;
+    border-radius: 6px;
+    font-size: 1.2em;
+    color:rgb(0, 0, 0),
+}
